@@ -1,7 +1,3 @@
-Here is a complete `README.md` file for your project based on the contents of the uploaded notebook **`IPL_score_prediction.ipynb`**:
-
----
-
 # 🏏 IPL Score Prediction
 
 This project builds a machine learning model to predict the **final score of a batting team** during an Indian Premier League (IPL) T20 match based on various match conditions such as the number of overs played, current runs, wickets fallen, and recent performance.
